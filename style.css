@@ -15,21 +15,26 @@ div{
     margin-top: 5%;
     float:left;
 }
-#blue{
-    background-color: rgb(78, 155, 255);
 
-}
 #red{
     background-color: rgb(255, 0, 0);
+    rotate: -10deg;
 }
 #yellow{
     background-color: rgb(255, 255, 0);
+    rotate: 10deg;
 }
 #orange{
     background-color: rgb(255, 165, 0);
+    rotate: -20deg;
 }
 #green{
     background-color: rgb(0, 255, 0);
+    rotate: 30deg;
+}
+#blue{
+    background-color: rgb(78, 155, 255);
+    rotate: 5deg;
 }
 p:hover{
 animation: fadein 2s ease forwards;
