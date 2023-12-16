@@ -1,5 +1,4 @@
 body{
-    background-image: url(school.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -8,7 +7,13 @@ body{
     font-size: x-large;
     color: #ffffff;
 }
+.scool{
+    background-image: url(school.jpg);
+}
+.nice{
+    background-image: url(images.jpg);
+}
 div{
     margin-top: 20%;
-    background:linear-gradient(to right, rgba(0, 255, 17, 0.379),rgba(196, 13, 13, 0.418));
+    background:linear-gradient(to right, rgba(0, 60, 255, 0.379),rgba(0, 255, 89, 0.418));
 }
