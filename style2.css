@@ -1,0 +1,14 @@
+body{
+    background-image: url(school.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-size: x-large;
+    color: #ffffff;
+}
+div{
+    margin-top: 20%;
+    background:linear-gradient(to right, rgba(0, 255, 17, 0.379),rgba(196, 13, 13, 0.418));
+}
