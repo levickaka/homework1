@@ -13,7 +13,16 @@ body{
 .nice{
     background-image: url(images.jpg);
 }
+.skeels{
+    background-image: url(skeels.jpg);
+}
+.proj{
+    background-image: url(.jpg);
+}
 div{
     margin-top: 20%;
     background:linear-gradient(to right, rgba(0, 60, 255, 0.379),rgba(0, 255, 89, 0.418));
+}
+a{
+    color: aliceblue;
 }

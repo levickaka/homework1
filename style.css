@@ -36,6 +36,7 @@ div{
 #blue{
     background-color: rgb(78, 155, 255);
     rotate: 5deg;
+    width: 300px;
 }
 p:hover{
 animation: fadein 2s ease forwards;
